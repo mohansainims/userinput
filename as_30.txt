@@ -1,0 +1,144 @@
+#include<stdio.h>
+int main()
+{
+    //write a c program and check a is number is greater than 50 or not ?
+    
+    
+  /*  int n;
+    printf("enter the number for check the number is greater than 50");
+    scanf("%d",&n);
+    if(n>50)
+    printf("the number is greater than 50");
+    else
+    printf("the number is not greater the 50");
+    
+    //write a c program and check a is number is less than 500 or not ?
+    
+    int n1;
+    printf("enter the number");
+    scanf("%d ",&n1);
+    if(n1<500)
+    printf("enter number is less then 500 and number is=%d",n1);
+    else
+    printf("enter number is not less the 500 and number is=%d",n1);
+    
+    
+    //write a c program to check a number is even or odd 
+    
+    
+    int num;
+    printf("enter the number");
+    scanf("%d",&num);
+    if(num%2==0)
+    printf("enter number is even and the number is=%d",num);
+    else
+    printf("enter number is odd and number is =%d",num);  
+    
+    
+    //write a c program to check a number is divisible by 7 or not 
+    
+    
+    int num1;
+    printf("enter the number");
+    scanf("%d",&num1);
+    if(num1%7==0)
+    printf("enter number is divisiable by 7 and the number is =%d",num1);
+    else
+    printf("enter number is not divisiable by 7 and the number is=%d",num1);   
+    
+    
+    //write a c program to check a used is valid for vote or not ? 
+    
+    
+    int age;
+    printf("enter the age for check the user is valid for vote");
+    scanf("%d",&age);
+    if(age>=18)
+    printf("the user is valid for vote");
+    else
+    printf("the user is not valid for vote");      
+    
+    
+    //write a c program user input :1 then print one 
+	      //otherswise input is not matched 
+	      
+	      
+	  int i;
+	  printf("please enter two");
+	  scanf("%d",&i);
+	  if(i==2)
+	  printf("enter value is two");
+	  else
+	  printf("input is not match");      
+    
+    
+    //write a c program user input :a then print apple  
+	      //otherswise input is not matched 
+	      
+	      
+	   char ch;
+	   printf("enter the a character");
+	   scanf("%c",&ch);
+	   if(ch=='a')
+	   printf("apple");
+	   else
+	   printf("character is not match");       
+	   
+	   
+	   
+	 //write a c program user input :b then print ball
+	       //otherswise input is not matched 
+	       
+	       
+	  char chh;
+	  printf("enter the b character");
+	   scanf("%c",&chh);
+	   if(chh=='b')
+	   printf("ball");
+	   else
+	   printf("character is not match");       
+	   
+	   
+	   
+	 //write a c program and check a character is vowel or consoant 
+    
+    
+    
+    char chh;
+    printf("enter the any character");
+    scanf("%c",&chh);
+    if(chh =='a'||chh =='e'||chh =='i'||chh =='o'||chh =='u')
+    printf("enter character is vowel and character is =%c",chh);
+    else
+    printf("enter character is consolant and character is =%c",chh);     
+    
+    
+    
+    //write a cprogram and check q,w,e,rt,y,u,i,o,p :upper 
+         //input is not correct 
+
+
+    
+	   char c1;
+	   printf("enter the any character from upper line");
+	   scanf("%c",&c1);
+	   if(c1=='q'||c1=='w'||c1=='e'||c1=='r'||c1=='t'||c1=='y'||c1=='u'||c1=='o'||c1=='p')
+	   printf("enter character is enter from the upper line of keyboard and character is=%c",c1);
+	   else
+	   {if(c1=='a'||c1=='s'||c1=='d'||c1=='f'||c1=='g'||c1=='h'||c1=='j'||c1=='k'||c1=='l')
+	   printf("enter character is enter from the middle line of keyboard and character is=%c",c1);
+	   else
+	   {if(c1=='z'||c1=='x'||c1=='c'||c1=='v'||c1=='b'||c1=='n'||c1=='m')
+	   	  printf("enter character is enter from the third line of keyboard and character is=%c",c1);
+        else
+	   printf("character is not match");}}
+	   
+	   return 0;    */
+  
+
+    
+
+
+
+
+}	   
